@@ -133,5 +133,7 @@ python-dotenv
 
 **Shubham Kumar**
 
+```
 Email: shubham.kr7519@gmail.com 
 LinkedIn: www.linkedin.com/in/shubham-kumar-37147a17a
+```
