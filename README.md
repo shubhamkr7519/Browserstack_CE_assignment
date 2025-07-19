@@ -45,6 +45,7 @@ Browserstack_CE_assignment/
 
 ```bash
 git clone https://github.com/shubhamkr7519/Browserstack_CE_assignment.git
+cd Browserstack_CE_assignment
 ```
 
 ### 2️⃣ Setup Virtual Environment
